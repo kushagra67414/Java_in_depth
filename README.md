@@ -28,3 +28,9 @@ Permanent Generation : This memory pool as name also says contain permanent clas
 so PermGen space always reserved for classe0s and those that is tied to the classes for example static members.
 
 ```
+* Java Multithreading
+* Dynamic Method Dispatch
+* overriding of static and private methods
+* constructor chaining 
+* method hiding
+* static and dynamic binding
