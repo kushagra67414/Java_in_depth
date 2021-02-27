@@ -34,3 +34,27 @@ so PermGen space always reserved for classe0s and those that is tied to the clas
 * constructor chaining 
 * method hiding
 * static and dynamic binding
+
+
+## Day-3
+
+* Autoboxing/unboxing
+* Wrapper Class
+* Reflection in Java
+
+[Reflection in Java](https://www.geeksforgeeks.org/reflection-in-java/)
+
+* Wildcards in JAVA
+* Final VS Immutability
+
+[Click Here](https://www.geeksforgeeks.org/final-vs-immutability-java/#:~:text=final%20means%20that%20you%20can,its%20reference%20to%20another%20one.)
+
+* Generics in Java
+[Generics](https://www.javatpoint.com/generics-in-java)
+
+* enum in Java
+[Enums](https://www.geeksforgeeks.org/enum-in-java/)
+
+* Immutable class -- how to make
+[Click Here](https://www.geeksforgeeks.org/create-immutable-class-java/)
+
