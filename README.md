@@ -58,3 +58,21 @@ so PermGen space always reserved for classe0s and those that is tied to the clas
 * Immutable class -- how to make
 [Click Here](https://www.geeksforgeeks.org/create-immutable-class-java/)
 
+
+
+## Day-4
+
+* Escaping Reference
+
+[Click Here](https://hashnode.com/post/introduction-to-anatomy-of-escaping-references-using-java-ckdzud9j3000nnas1dbe86d6g)
+
+* Encapsulation in java
+
+[Click Here](https://www.tutorialspoint.com/java/java_encapsulation.htm#:~:text=Encapsulation%20in%20Java%20is%20a,methods%20of%20their%20current%20class.)
+
+* Immutable Class
+
+[Click Here](https://dzone.com/articles/how-to-create-an-immutable-class-in-java)
+
+
+
