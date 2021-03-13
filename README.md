@@ -74,5 +74,7 @@ so PermGen space always reserved for classe0s and those that is tied to the clas
 
 [Click Here](https://dzone.com/articles/how-to-create-an-immutable-class-in-java)
 
+* Reference Variable
 
+[Click Here](https://www.geeksforgeeks.org/reference-variable-in-java/)
 
