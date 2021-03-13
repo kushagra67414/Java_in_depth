@@ -78,3 +78,8 @@ so PermGen space always reserved for classe0s and those that is tied to the clas
 
 [Click Here](https://www.geeksforgeeks.org/reference-variable-in-java/)
 
+* Clone and Copy Constructor
+
+[Click Here](https://howtodoinjava.com/java/cloning/a-guide-to-object-cloning-in-java/)
+
+
