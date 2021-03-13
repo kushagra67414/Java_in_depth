@@ -82,4 +82,8 @@ so PermGen space always reserved for classe0s and those that is tied to the clas
 
 [Click Here](https://howtodoinjava.com/java/cloning/a-guide-to-object-cloning-in-java/)
 
+* How to Create an Immutable Class in Java
+
+[Click Here](https://dzone.com/articles/how-to-create-an-immutable-class-in-java)
+
 
